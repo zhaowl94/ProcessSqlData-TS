@@ -1,0 +1,14 @@
+# Local database configuration. Never commit real credentials.
+config.local.toml
+
+# Runtime state and rollback data.
+.runtime/
+
+# Python caches and local environments.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
