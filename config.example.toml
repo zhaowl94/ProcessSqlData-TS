@@ -1,0 +1,13 @@
+# Copy this file to config.local.toml and replace every "replace-me" value.
+# config.local.toml is ignored by Git and must never be committed.
+
+[database]
+host = "replace-me"
+port = 5432
+database = "replace-me"
+user = "replace-me"
+password = "replace-me"
+schema = "public"
+table = "dashboard_dtudata"
+connect_timeout_seconds = 15
+statement_timeout_seconds = 300

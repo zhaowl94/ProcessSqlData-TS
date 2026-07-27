@@ -1,0 +1,23 @@
+{
+  "schema_version": 1,
+  "database_table": "dashboard_dtudata",
+  "legacy_batch_size": 10000,
+  "legacy_first_offset": 10000,
+  "default_mode": "legacy",
+  "output_directories": [
+    "DataRaw",
+    "DataProcess1",
+    "DataProcess2",
+    "DataProcess3",
+    "DataProcess4",
+    "DataProcess5",
+    "DataProcess6",
+    "DataProcess7",
+    "DataProcess8",
+    "DataProcess9",
+    "DataProcess10",
+    "DataProcess11",
+    "DataProcess12",
+    "DataProcess13"
+  ]
+}
